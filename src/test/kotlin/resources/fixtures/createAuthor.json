@@ -1,0 +1,8 @@
+{
+  "firstName": "Foo",
+  "middleName": "Bar",
+  "lastName": "Baz",
+  "bornDate": "1800-01-01",
+  "deadDate": "1900-01-01",
+  "bornPlace": "FooBar"
+}
